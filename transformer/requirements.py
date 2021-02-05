@@ -1,0 +1,1 @@
+pip install fastai2
